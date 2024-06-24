@@ -1,5 +1,5 @@
 # Model-Interpretation
-This is a list of papers about Shapley value based method for model interpretation.
+This is a list of papers about Shapley value based methods for model interpretation.
 
 # Paper List
 Efficient Sampling Approaches to Shapley Value Approximation
