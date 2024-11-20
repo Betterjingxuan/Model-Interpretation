@@ -1,11 +1,3 @@
-# Data evaluation
-This is a list of papers about Shapley value based methods for data evaluation.
-## 1.Paper List
-
-| Source | Paper | Description |Links|Code|
-| --- | --- | --- | --- |--- |
-
-
 # Model-Interpretation
 This is a list of papers about Shapley value based methods for model interpretation.
 
@@ -27,3 +19,9 @@ Efficient Sampling Approaches to Shapley Value Approximation
 | Data Mining and Knowledge Discovery-2024 | A comparative study of methods for estimating model-agnostic Shapley value explanations |. |[Paper](https://link.springer.com/content/pdf/10.1007/s10618-024-01016-z.pdf)||
 
 
+# Data Evaluation
+This is a list of papers about Shapley value based methods for data evaluation.
+## 1.Paper List
+
+| Source | Paper | Description |Links|Code|
+| --- | --- | --- | --- |--- |
