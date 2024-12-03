@@ -25,3 +25,4 @@ This is a list of papers about Shapley value based methods for data evaluation.
 
 | Source | Paper | Description |Links|Code|
 | --- | --- | --- | --- |--- |
+|  | A Comprehensive Study of Shapley Value in Data Analytics |. |[Paper](http://arxiv.org/abs/2412.01460)||
