@@ -25,4 +25,9 @@ This is a list of papers about Shapley value based methods for data evaluation.
 
 | Source | Paper | Description |Links|Code|
 | --- | --- | --- | --- |--- |
-|  | A Comprehensive Study of Shapley Value in Data Analytics |. |[Paper](http://arxiv.org/abs/2412.01460)||
+| 2024 | A Comprehensive Study of Shapley Value in Data Analytics |. |[Paper](http://arxiv.org/abs/2412.01460)||
+| 2022 |Algorithms to estimate Shapley value feature attributions |.|[Paper](http://arxiv.org/abs/2207.07605)||
+|2022| The Shapley Value in Machine Learning|.|[paper](http://arxiv.org/abs/2202.05594)|
+|2024|A comparative study of methods for estimating model-agnostic Shapley value explanations|.|[paper](https://doi.org/10.1007/s10618-024-01016-z)|
+|2024|Applications and Computation of the Shapley Value in Databases and Machine Learning |.|[Paper](https://dl.acm.org/doi/10.1145/3626246.3654680)|
+|2024|Interpreting Machine Learning Models With SHAP|.|[Paper](https://christophmolnar.com/books/shap/)|
