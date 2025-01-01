@@ -16,8 +16,9 @@ Efficient Sampling Approaches to Shapley Value Approximation
 | --- | --- | --- | --- |--- |
 | Nature Machine Intelligence-2022 | Algorithms to estimate Shapley value feature attributions |. |[Paper](https://dl.acm.org/doi/abs/10.1145/3588728)|[code](https://github.com/suinleelab/shapley_algorithms)|
 | IJCAI-2022 | The Shapley Value in Machine Learning |. |[Paper](https://www.ijcai.org/proceedings/2022/0778.pdf)|[code](https://github.com/AstraZeneca/awesome-shapley-value)|
+| International Conference on Management of Data-2024 | Applications and Computation of the Shapley Value in Databases and Machine Learning |. |[Paper](https://dl.acm.org/doi/10.1145/3626246.3654680)||
 | Data Mining and Knowledge Discovery-2024 | A comparative study of methods for estimating model-agnostic Shapley value explanations |. |[Paper](https://link.springer.com/content/pdf/10.1007/s10618-024-01016-z.pdf)||
-
+| 2024 | A Comprehensive Study of Shapley Value in Data Analytics |. |[Paper](http://arxiv.org/abs/2412.01460)||
 
 # Data Evaluation
 This is a list of papers about Shapley value based methods for data evaluation.
